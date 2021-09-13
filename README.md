@@ -1,5 +1,4 @@
 <h1 align="center">Annyeong, I'm Giulia</h1>
-<h3 align="center">A developer from Italy</h3>
 
 - 🔭 I’m currently working on [Cooking Master](https://cookingmaster.it)
 
