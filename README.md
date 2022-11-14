@@ -1,6 +1,6 @@
 <h1 align="center">Annyeong, I'm Giulia</h1>
 
-- 🔭 I’m currently working on [Cooking Master](https://cookingmaster.it)
+- 🔭 I’m currently working on [Track-BEE](https://github.com/GhostyJade/track-bee)
 
 - 🌱 I’m currently learning **Puppeteer, golang, rust**
 
